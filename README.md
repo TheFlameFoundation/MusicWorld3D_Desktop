@@ -5,20 +5,17 @@
 - [**Music World | Love, Laugh, Learn, Lucrative for Music🎵**](#music-world--love-laugh-learn-lucrative-for-music)
   - [**🧾Table of Contents**](#table-of-contents)
   - [**📖Introduction**](#introduction)
-  - [**🚀How to Access Music World**](#how-to-access-music-world)
-  - [**🎮Gameplay \& Features**](#gameplay--features)
-  - [**⚙️Technical Details**](#️technical-details)
-    - [**🚨System Requirements**](#system-requirements)
-      - [Minimum:](#minimum)
-      - [Recommended:](#recommended)
-    - [**🖥️Tech Stack**](#️tech-stack)
-    - [**🛠️Installation \& Setup**](#️installation--setup)
-      - [**Download from Itch.io**](#download-from-itchio)
-  - [**🗂️Repository Structure**](#️repository-structure)
-  - [**🤝Community Contributions**](#community-contributions)
-  - [**👨🏻‍💻Contact \& Support**](#contact--support)
+  - [**🚀How to Access Music World**](#how-to-access)
+  - [**🎮Gameplay & Features**](#features)
+  - [**⚙️Technical Details**](#️techdetails)
+    - [**🚨System Requirements**](#sysreq)
+    - [**🖥️Tech Stack**](#️techstack)
+    - [**🛠️Installation & Setup**](#️installation)
+  - [**🗂️Repository Structure**](#️repostructure)
+  - [**🤝Community Contributions**](#contributions)
+  - [**👨🏻‍💻Contact & Support**](#contact)
 
-## **📖Introduction**<a name="Introduction"></a>
+## **📖Introduction**<a name="introduction"></a>
 
 Welcome to _Magic Worlds_ where everything is possible and the only limit is your imagination and dreams. Forever free, family friendly and open source.
 
@@ -27,7 +24,7 @@ where players can compose and sing alongside virtual legends like Elvis Presley.
 Step into immersive venues, refine your musical skills,
 and embrace the power of sound as you shape your unique musical journey.
 
-## **🚀How to Access Music World**<a name="How-to-access"></a>
+## **🚀How to Access Music World**<a name="how-to-access"></a>
 
 1. **Launch Magic Worlds** and enter your spaceship.
 2. **Talk to the Vice Captain** by walking up ahead and pressing `E`.
@@ -46,7 +43,7 @@ and embrace the power of sound as you shape your unique musical journey.
 
 ## **⚙️Technical Details**<a name="techdetails"></a>
 
-### **🚨System Requirements**
+### **🚨System Requirements**<a name="sysreq"></a>
 
 #### Minimum:
 
@@ -66,7 +63,7 @@ and embrace the power of sound as you shape your unique musical journey.
 - **DirectX**: Version 12
 - **Storage**: 50 GB SSD
 
-### **🖥️Tech Stack**
+### **🖥️Tech Stack**<a name="techstack"></a>
 
 _Magic Worlds_ is built using the following technologies:
 - **Game Engine**: Godot Game Engine
@@ -75,7 +72,7 @@ _Magic Worlds_ is built using the following technologies:
 - **Cloud Platforms**: AWS, Google Cloud
 - **Operating Systems**: Windows, Linux, macOS, iOS, mobile
 
-### **🛠️Installation & Setup**
+### **🛠️Installation & Setup**<a name="installation"></a>
 
 #### **Download from Itch.io**
 
@@ -84,7 +81,7 @@ _Magic Worlds_ is built using the following technologies:
 3. Extract the downloaded file (if applicable).
 4. Run the game executable to start playing.
 
-## **🗂️Repository Structure**<a name="repo-structure"></a>
+## **🗂️Repository Structure**<a name="repostructure"></a>
 
 ```plaintext
 MusicWorld3D_Desktop/
@@ -104,7 +101,7 @@ _Music World_ is part of the open-source _Magic Worlds_ project. You can contrib
 - Reporting bugs and suggesting improvements.
 - Joining discussions and beta testing.
 
-## **👨🏻‍💻Contact & Support**<a name="contact-support"></a>
+## **👨🏻‍💻Contact & Support**<a name="contact"></a>
 
 📧 **Email**: mflynn1999@gmail.com  
 📘 **Facebook**: [Magic Worlds](https://www.facebook.com/MagikWorlds)  
