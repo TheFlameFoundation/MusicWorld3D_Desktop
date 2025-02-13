@@ -17,9 +17,10 @@
     - [**🛠️Installation & Setup**](#️installation--setup)
   - [**🗂️Repository Structure**](#️repository-structure)
   - [**🤝Community Contributions**](#community-contributions)
-  - [**👨🏻‍💻Contact & Support** ](#contact--support-a-namecontacta)
+  - [**👨🏻‍💻Contact & Support**](#contact--support)
 
 <!-- /code_chunk_output -->
+
 
 ## **📖Introduction**
 
@@ -108,7 +109,7 @@ _Music World_ is part of the open-source _Magic Worlds_ project. You can contrib
 - Reporting bugs and suggesting improvements.
 - Joining discussions and beta testing.
 
-## **👨🏻‍💻Contact & Support** <a name="contact"></a>
+## **👨🏻‍💻Contact & Support**
 
 📧 **Email**: mflynn1999@gmail.com  
 📘 **Facebook**: [Magic Worlds](https://www.facebook.com/MagikWorlds)  
