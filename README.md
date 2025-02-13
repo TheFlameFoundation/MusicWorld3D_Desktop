@@ -6,8 +6,6 @@
 
 <!-- code_chunk_output -->
 
-- [**Music World | Love, Laugh, Learn, Lucrative for Music🎵**](#music-world--love-laugh-learn-lucrative-for-music)
-  - [**🧾Table of Contents**](#table-of-contents)
   - [**📖Introduction**](#introduction)
   - [**🚀How to Access Music World**](#how-to-access-music-world)
   - [**🎮Gameplay & Features**](#gameplay--features)
